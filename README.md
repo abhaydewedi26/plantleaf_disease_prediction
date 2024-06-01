@@ -33,7 +33,7 @@ This project leverages a machine learning model to predict plant diseases from l
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/abhaydewedi26/PlantPulse_leaf_disease_pred.git
+    git clone https://github.com/abhaydewedi26/PlantLeaf_Disease_Prediction.git
     ```
 2. Navigate to the project directory:
     ```bash
